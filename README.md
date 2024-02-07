@@ -1,16 +1,15 @@
-### Hi there 👋
+# Evan Bancroft
 
-<!--
-**EvanBancroft/EvanBancroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just an ordinary tech guy looking to make my developer workflow more enjoyable, write some optimized code, understand pointers, and ship some really awesome software.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1e)
+![](https://img.shields.io/badge/Code-Elixir-informational?style=flat&logo=elixir&logoColor=white&color=7C6D91)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=50b7e0) (coming soon)
+
+## 🌱 I'm currently learning
+
+I'm currently spending my free time learning Go and various lower-level language concepts. I'm also diving into a transition away from an IDE and towards NeoVim & fully optimizing my dev environment.
+
